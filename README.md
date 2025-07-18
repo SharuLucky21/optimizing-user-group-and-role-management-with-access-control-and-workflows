@@ -3,6 +3,7 @@ Optimizing user, group, and role management with access control and workflows en
 
 🚀 Objective
 To design and implement an efficient system for managing users, groups, and roles, integrated with access control policies and automated workflows, in order to enhance security, ensure proper resource allocation, streamline administrative tasks, and support organizational scalability.
+
 🔧 Features
 Creation of users, groups, and roles in ServiceNow
 Custom table setup (Operations Related) 
